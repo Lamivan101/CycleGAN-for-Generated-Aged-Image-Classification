@@ -4,4 +4,6 @@ As humans age, their appearances undergo complex changes. Loss of muscle tone an
 
 ## More info about the project
 More information regarding the code, experiments and results can be found below.
-[Project Report .docx](https://github.com/user-attachments/files/17658242/Project.Report.docx)
+
+
+[Project Report .pdf](https://github.com/user-attachments/files/17658292/Project.Report.pdf)
